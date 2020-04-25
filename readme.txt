@@ -4,3 +4,4 @@ git has a mutble index called stage
 
 How to associate a remote repository
    git remote add origin https://github.com/liu247/learngit.git
+   git remote add origin git@github.com:liu247/learngit.git
